@@ -1,0 +1,36 @@
+--------------------
+Date: 19:12:2024
+Time: 15:51
+Phone number: +919545883002
+Message: hi
+--------------------
+Date: 19:12:2024
+Time: 15:56
+Phone number: +919545883002
+Message: hi this is python working model
+--------------------
+Date: 19:12:2024
+Time: 15:58
+Phone number: +917498157771
+Message: hi this is python working model
+--------------------
+Date: 19:12:2024
+Time: 16:0
+Phone number: +918208805916
+Message: hi this is python working model
+--------------------
+Date: 19:12:2024
+Time: 16:43
+Phone number: +919545883002
+Message: hi this is auto_msg
+--------------------
+Date: 19:12:2024
+Time: 16:45
+Phone number: +917498157771
+Message: hi this is auto_msg
+--------------------
+Date: 19:12:2024
+Time: 16:47
+Phone number: +918208805916
+Message: hi this is auto_msg
+--------------------
